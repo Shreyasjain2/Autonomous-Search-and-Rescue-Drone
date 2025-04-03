@@ -9,7 +9,7 @@
 
 This project implements an autonomous multi-drone system for search and rescue operations using reinforcement learning (RL). The system trains drone swarms to efficiently search areas, detect victims, and optimize rescue routes while maintaining stable flight patterns. The project consists of:
 
-![Multi Drone Training](https://github.com/Prakharjain1509/Autonomous-Search-and-Rescue-Drone/blob/e1a800a7aed0cd0b18775f1ce3a5e279343b5a83/assets/multi.png)
+![Multi Drone Training](https://github.com/SaraffAbhishek/Autonomous-Search-and-Rescue-Drone/blob/e1a800a7aed0cd0b18775f1ce3a5e279343b5a83/assets/multi.png)
 
 - A **real-time drone UI** for monitoring and controlling drones
 - **Reinforcement learning** models to optimize drone search efficiency
@@ -24,7 +24,7 @@ This project implements an autonomous multi-drone system for search and rescue o
 - **Real-time UI Dashboard**: Monitor drone behavior and RL training
 - **Reinforcement Learning**: PPO-based training for optimized navigation
 
-![RL Dashboard](https://github.com/Prakharjain1509/Autonomous-Search-and-Rescue-Drone/blob/e1a800a7aed0cd0b18775f1ce3a5e279343b5a83/assets/frontend.png)
+![RL Dashboard](https://github.com/SaraffAbhishek/Autonomous-Search-and-Rescue-Drone/blob/e1a800a7aed0cd0b18775f1ce3a5e279343b5a83/assets/frontend.png)
 
 ## 👩‍💻 System Components
 
@@ -43,7 +43,7 @@ Trains drones using PPO with PyBullet simulation.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Prakharjain1509/Autonomous-Search-and-Rescue-Drone.git
+git clone https://github.com/SaraffAbhishek/Autonomous-Search-and-Rescue-Drone.git
 cd Autonomous-Search-and-Rescue-Drone
 ```
 
@@ -73,7 +73,7 @@ python -m http.server
 Navigate to `http://localhost:8000/index.html` to view the UI.
 
 ---
-![Basic UI](https://github.com/Prakharjain1509/Autonomous-Search-and-Rescue-Drone/blob/main/Drone-RL-Processing/assets/frontend_drone.png)
+![Basic UI](https://github.com/PrakharJain1509/Autonomous-Search-and-Rescue-Drone/blob/main/Drone-RL-Processing/assets/frontend_drone.png)
 
 ## 🚀 Running the RL Simulation
 
