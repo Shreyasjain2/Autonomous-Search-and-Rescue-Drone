@@ -73,7 +73,7 @@ python -m http.server
 Navigate to `http://localhost:8000/index.html` to view the UI.
 
 ---
-![Basic UI](https://github.com/PrakharJain1509/Autonomous-Search-and-Rescue-Drone/blob/main/Drone-RL-Processing/assets/frontend_drone.png)
+![Basic UI](https://github.com/Shreyasjain2/Autonomous-Search-and-Rescue-Drone/blob/main/Drone-RL-Processing/assets/frontend_drone.png)
 
 ## 🚀 Running the RL Simulation
 
